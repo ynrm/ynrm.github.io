@@ -4,7 +4,12 @@
 
     <sitemap>
         <loc>https://ynrm.github.io/post-sitemap.xml</loc>
-        <lastmod>2020-11-17T07:34:07.370Z</lastmod>
+        <lastmod>2020-12-14T17:43:05.183Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://ynrm.github.io/tag-sitemap.xml</loc>
+        <lastmod>2020-12-14T17:43:05.183Z</lastmod>
     </sitemap>
 
 </sitemapindex>
